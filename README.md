@@ -4,7 +4,7 @@
 </a>
 <h2> Residency Status: Brooklyn, New York</h2>
 <h2> Full name of applicant: Anna Voronova</h2>
-<h2> Cell of student: 718-883-0941. Email of student: <a href= "https://mail.google.com/mail/u/0/#search/kitcatan278%40gmail.com"> Kitcatn278@gmail.com</a></h2>
+<h2> Cell of student: 718-883-0941. Email of student: <a href= "https://mail.google.com/mail/u/0/#search/kitcatan278%40gmail.com"> Kitcatan278@gmail.com</a></h2>
 <hr>
 <h2> Summary of me:</h2>
 <ul>
